@@ -2,7 +2,9 @@ const puppeteer = require('puppeteer');
 const fs = require('fs').promises; // Use fs.promises for async/await support
 const path = require('path');
 
-const startUrl = 'http://www.deviantart.com'; // Starting URL of your website
+//const startUrl = 'http://www.deviantart.com'; // Starting URL of your website
+//const startUrl = 'https://www.deviantart.com/tag/videogamefanart'; 
+const startUrl = 'https://www.deviantart.com/tag/scifi';
 
 // Adjust the downloadImage function to accept the page object
 async function downloadImage(page, url, filepath) {
