@@ -13,7 +13,7 @@ This script is designed to scrape images from DeviantArt, starting from a specif
 
    ```bash
    git clone https://github.com/vakandi/DeviantArt-Full-Downloader
-   cd deviantart-image-scraper
+   cd DeviantArt-Full-Downloader
    ```
 
 2. Install the required dependencies:
