@@ -1,3 +1,6 @@
 node_modules/
 jpg/
 /jpg/
+package-lock.json 
+package.json 
+
